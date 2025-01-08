@@ -5,8 +5,7 @@ import time
 
 ########################NOTe########################################
 
-#THIS CODE CONVERGES WELL, THE THING IS STILL THE CONVERGENCE CRITERIA IS DIFFERENT FROM THE PROFESORRS.
-#STILL I WILL UPLOAD TO DRIVE
+
 
 #################### DEFINITION OF CLASSES  ################################
 
